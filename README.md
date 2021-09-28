@@ -1,4 +1,4 @@
-# -Theeming-Engine-Editor
+# Theeming-Engine-Editor
 
 
 ## Get Started
