@@ -5,7 +5,7 @@
 
 ### Step 1. - Git clone ([Download git for Windows](https://git-scm.com/downloads))
 
-    git clone https://github.com/Andreas-Braz/-Theeming-Engine-Editor.git
+    git clone https://github.com/Andreas-Braz/Theeming-Engine-Editor.git
 
 ### Step 2. - Change directory
 
